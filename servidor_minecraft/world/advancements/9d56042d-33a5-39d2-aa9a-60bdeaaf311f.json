@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-11-28 01:45:51 +0000"
-    },
-    "done": true
-  },
   "disenchanter:recipes/clear_table_upgrades": {
     "criteria": {
       "has_disenchantment_table": "2024-11-28 01:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-28 01:45:51 +0000"
     },
     "done": true
   },
@@ -2005,15 +2005,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2024-11-28 01:45:51 +0000"
-    },
-    "done": true
-  },
   "disenchanter:recipes/upgrade_table_voiding": {
     "criteria": {
       "has_disenchantment_table": "2024-11-28 01:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-11-28 01:45:51 +0000"
     },
     "done": true
   },
