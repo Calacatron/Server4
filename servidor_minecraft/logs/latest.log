@@ -4679,3 +4679,29 @@ Caused by: java.lang.NullPointerException: Undefined message for discriminator 1
 [18:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> ya esta arreglao
 [18:17:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> quiten la lluvia csmre
 [18:17:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SoyMrZaki moved wrongly!
+[18:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sukistron> dego
+[18:17:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> q
+[18:17:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sukistron> cuando haya luna de sangre
+[18:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sukistron> apenas avise en el chat mete en cualquier casa y no dejes que te vean los bichos
+[18:18:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> ok
+[18:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> ya tengo marcado mi terreno
+[18:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <tobiaspro08> buenisima
+[18:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> duerman
+[18:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SoyMrZaki> mi terreno favorito es el qlo de nelly q lo deje bien marcado para q respenten
+[18:24:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> cuidado q te dare por ese anastacio
+[18:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sukistron> por genetica
+[18:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SoyMrZaki> pene
+[18:25:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON is bleeding...
+[18:25:24] [Server thread/INFO] [tombstone]: The death event of the player DEGOARON was cancelled by another mod
+[18:25:24] [Server thread/INFO] [tombstone]: DEGOARON has successfully been saved
+[18:25:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Server4/servidor_minecraft/./world/data/inventory-DEGOARON-2024-11-30_18.25.26-death-0.dat. It can be restored with command '/ob_inventory restore DEGOARON DEGOARON-2024-11-30_18.25.26-death-0'
+[18:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON was slain by Zombie
+[18:25:26] [Server thread/INFO] [tombstone]: The last known grave of DEGOARON is at location [name:Last Grave, x:759, y:73, z:-1015] in the dimension 0
+[18:25:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sukistron> duerman
+[18:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <tobiaspro08> duerman
+[18:25:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> duerman
+[18:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <DEGOARON> o salganse porfavor
+[18:25:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DEGOARON lost connection: Disconnected
+[18:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON left the game
+[18:26:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SoyMrZaki lost connection: Disconnected
+[18:26:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SoyMrZaki left the game
