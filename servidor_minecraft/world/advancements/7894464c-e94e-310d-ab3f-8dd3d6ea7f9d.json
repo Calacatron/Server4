@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 03:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-23 02:09:36 +0000"
@@ -549,6 +555,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 03:04:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-11-30 03:00:31 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-11-23 01:54:20 +0000"
@@ -649,6 +667,7 @@
     "criteria": {
       "wither_skeleton": "2024-11-30 02:57:37 +0000",
       "zombie_villager": "2024-11-30 02:19:03 +0000",
+      "magma_cube": "2024-11-30 03:00:22 +0000",
       "slime": "2024-11-28 02:48:28 +0000",
       "skeleton": "2024-11-24 19:21:16 +0000",
       "blaze": "2024-11-30 02:55:42 +0000",
@@ -852,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 03:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:longbow": {
     "criteria": {
       "craft": "2024-11-28 03:10:40 +0000"
@@ -999,6 +1024,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-23 02:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-30 03:04:51 +0000"
     },
     "done": true
   },

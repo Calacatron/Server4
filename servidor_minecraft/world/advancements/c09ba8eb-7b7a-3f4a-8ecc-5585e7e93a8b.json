@@ -284,7 +284,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-11-24 00:53:46 +0000",
-      "apple": "2024-11-24 02:51:31 +0000"
+      "apple": "2024-11-24 02:51:31 +0000",
+      "golden_apple": "2024-11-30 03:04:22 +0000"
     },
     "done": false
   },
@@ -447,6 +448,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-24 01:05:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-11-30 03:04:46 +0000"
     },
     "done": true
   },
