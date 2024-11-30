@@ -507,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-30 17:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-11-24 19:28:28 +0000"
@@ -898,6 +904,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-11-24 19:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-30 17:19:32 +0000"
     },
     "done": true
   },
