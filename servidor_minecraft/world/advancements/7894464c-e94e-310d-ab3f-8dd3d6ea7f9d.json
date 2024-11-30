@@ -561,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-11-23 01:54:50 +0000"
@@ -660,6 +666,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-23 01:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
     },
     "done": true
   },
@@ -1075,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-11-30 17:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-11-23 02:08:25 +0000"
@@ -1105,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-11-24 19:28:28 +0000"
@@ -1120,6 +1144,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-11-30 02:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
     },
     "done": true
   },
@@ -1144,6 +1174,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-23 01:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
     },
     "done": true
   },
@@ -1355,6 +1391,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-11-23 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-30 17:45:50 +0000"
     },
     "done": true
   },
