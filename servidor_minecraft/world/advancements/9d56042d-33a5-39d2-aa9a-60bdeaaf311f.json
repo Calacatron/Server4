@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-17 22:35:45 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-30 01:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-11-17 22:04:41 +0000"
@@ -218,6 +230,13 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-11-23 16:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-11-30 02:25:52 +0000",
+      "diamond_boots": "2024-11-30 02:25:52 +0000"
     },
     "done": true
   },
@@ -329,6 +348,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "bronze": "2024-11-30 00:47:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_pray": {
     "criteria": {
       "coded_trigger": "2024-11-23 23:57:50 +0000"
@@ -399,6 +424,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-11-17 21:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-11-30 00:29:04 +0000"
     },
     "done": true
   },
@@ -555,6 +586,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-23 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-29 23:38:03 +0000"
     },
     "done": true
   },
@@ -794,6 +831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 23:29:39 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-11-17 21:55:19 +0000"
@@ -809,6 +852,12 @@
   "tombstone:tutorial/easy_opening": {
     "criteria": {
       "coded_trigger": "2024-11-24 03:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-30 01:01:05 +0000"
     },
     "done": true
   },
@@ -952,10 +1001,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-11-29 23:34:46 +0000",
       "zombie_villager": "2024-11-23 02:17:34 +0000",
       "skeleton": "2024-11-17 22:07:33 +0000",
       "zombie": "2024-11-17 22:07:07 +0000",
       "cave_spider": "2024-11-28 03:03:27 +0000",
+      "silverfish": "2024-11-29 23:47:13 +0000",
       "witch": "2024-11-24 02:51:14 +0000",
       "spider": "2024-11-17 22:07:01 +0000",
       "creeper": "2024-11-23 02:19:27 +0000",
@@ -1059,9 +1110,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 01:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-11-24 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-11-30 00:29:21 +0000"
     },
     "done": true
   },
@@ -1086,6 +1149,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-11-23 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 01:53:02 +0000"
     },
     "done": true
   },
@@ -1140,6 +1209,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-11-27 22:47:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-11-29 23:33:26 +0000"
     },
     "done": true
   },
@@ -1215,6 +1290,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/chainmail_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-11-30 01:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-11-24 03:26:48 +0000"
@@ -1260,6 +1341,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-11-17 23:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 23:29:39 +0000"
     },
     "done": true
   },
@@ -1503,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2024-11-17 22:07:40 +0000"
@@ -1566,6 +1659,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-11-17 22:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-30 01:01:05 +0000"
     },
     "done": true
   },
@@ -1726,6 +1825,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-17 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-11-30 01:10:44 +0000"
     },
     "done": true
   },
@@ -1933,6 +2038,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2024-11-30 02:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2024-11-28 00:26:37 +0000"
@@ -1990,6 +2101,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-17 22:35:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-11-30 01:06:15 +0000"
     },
     "done": true
   },
